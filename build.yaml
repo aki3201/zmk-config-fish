@@ -20,4 +20,4 @@ include:
   - board: xiao_ble
     shield: fish_right
   - board: xiao_ble
-    shield: settings_reset
+    snippet: settings_reset
